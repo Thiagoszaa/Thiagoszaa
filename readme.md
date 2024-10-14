@@ -1,11 +1,9 @@
 # Escolha seu idioma / Choose your language
 
-- [🇧🇷 Português](#português)
-- [🇬🇧 English](#english)
+- [Português](#português)
+- [English](#english)
 
 ---
-
-## 🇧🇷 Português
 
 ### Olá! Eu sou Thiago Henrique 👋
 
@@ -22,7 +20,7 @@ Desenvolvedor com alta gama de conhecimento em **Python**, **Java Orientado a Ob
 
 ---
 
-## 🇬🇧 English
+### English
 
 ### Hi! I'm Thiago Henrique 👋
 
@@ -31,7 +29,7 @@ A developer with a strong knowledge base in **Python**, **Object-Oriented Java**
 ### ⚡ My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiagoszaa&show_icons=true&theme=purble)
 
-### 🌐 My Most Used Languages
+### My Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoszaa&layout=compact&theme=purble)
 
 ### 🌍 My LinkedIn
