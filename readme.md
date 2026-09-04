@@ -11,10 +11,7 @@
 <p align="left">
   I'm <strong>Thiago Henrique</strong>, a <strong>Software Developer</strong> and Computer Science student.
 </p>
-
-
 <br clear="right"/>
-
 <p align="left">
   Feel free to connect with me:
 </p>
